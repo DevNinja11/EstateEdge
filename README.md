@@ -1,91 +1,141 @@
-# Real Estate Marketplace Application
+# EstateEdge
 
-This repository contains the code for a comprehensive Real Estate Marketplace Application, built using Angular for the frontend and Spring Boot for the backend. The live website is accessible [here](https://real-estate-marketplace-pi.vercel.app/), and it has undergone more than 100 commits.
+## Project Overview
+
+I have contrubuted my professional expertise to develop this real estate web application. It is a robust platform designed to streamline the process of buying, selling, and managing real estate properties. Built with a modern technology stack, this application provides a comprehensive suite of features to enhance user experience and facilitate efficient property transactions. The live website for this application can be accessed [here](https://real-estate-marketplace-pi.vercel.app/). The project has been developed through extensive iteration, with over 100 commits reflecting ongoing improvements and enhancements.
 
 ## Features
 
-- **Browse and filter real estate listings:** Explore a diverse range of property listings.
-- **Search for properties:** Utilize various criteria to find properties tailored to your needs.
-- **User authentication and authorization:** Securely manage access to the application.
-- **Add new properties:** Easily contribute new properties to the platform.
-- **Edit and delete existing property listings:** Maintain accurate and up-to-date information.
-- **User profiles and related information:** Displays user profiles.
-- **Detailed property information:** Shows detailed information about a specific property.
-- **Image upload for property listings:** Handles the uploading of images for property listings.
-- **Alerts and notifications:** Handles and displays alerts or notifications to users.
-- **Image carousel:** Implements a carousel for showcasing multiple images.
-- **Loading spinner:** Indicates loading or processing status with a spinner.
+- **Property Listings:**
+  - **Browse and Filter:** Explore a wide array of property listings with advanced filtering options.
+  - **Detailed Information:** View comprehensive details about each property, including specifications and images.
+
+- **User Management:**
+  - **Authentication and Authorization:** Secure login and registration processes to manage user access and permissions.
+  - **User Profiles:** Display and manage user profiles with relevant information.
+
+- **Property Management:**
+  - **Add Properties:** Contribute new property listings to the marketplace.
+  - **Edit and Delete Listings:** Maintain and update property information as needed.
+
+- **Image Management:**
+  - **Upload and Carousel:** Upload images for property listings and showcase them using a dynamic carousel feature.
+
+- **User Notifications:**
+  - **Alerts and Notifications:** Receive and manage alerts or notifications regarding property updates and user interactions.
+
+- **User Interface Enhancements:**
+  - **Loading Spinner:** Visual indicator for ongoing processes to improve user experience.
 
 ## Technologies Used
 
-### Front End:
+### Frontend
+- **Angular:** Framework for building dynamic single-page applications.
+- **TypeScript:** Superset of JavaScript providing static type definitions for better development practices.
+- **TailwindCSS:** Utility-first CSS framework for streamlined styling and responsive design.
+- **Swiper:** JavaScript library for creating touch-enabled sliders and carousels.
 
-- Angular
-- TypeScript
-- TailwindCSS (CSS framework for styling)
-- Swiper (JavaScript slider library)
+### Backend
+- **Spring Boot:** Framework for creating stand-alone, production-grade Spring-based applications.
+- **Spring Security:** Provides authentication, authorization, and protection against common security vulnerabilities.
+- **Spring Data JPA:** Simplifies data access and management using JPA (Java Persistence API).
 
-### Back End:
+### Database
+- **MySQL:** Relational database management system for storing and managing application data.
 
-- Spring Boot
-- Spring Security
-- Spring Data JPA
+## Application Pages
 
-### Database:
-
-- MySQL Database
-
-## Pages
-
-- **Home page**
-- **Search page**
-- **Property details page**
-- **Profile page**
-- **Login page**
-- **Sign up page**
-- **Add property page**
-- **Update property page**
+- **Home Page:** Main entry point featuring an overview of available properties and access to search functionalities.
+- **Search Page:** Allows users to search for properties based on various criteria.
+- **Property Details Page:** Provides detailed information about a selected property.
+- **Profile Page:** Displays user profile information and allows for profile management.
+- **Login Page:** Authentication page for user login.
+- **Sign Up Page:** Registration page for new user accounts.
+- **Add Property Page:** Interface for adding new property listings.
+- **Update Property Page:** Allows users to update existing property listings.
 
 ## Screenshots
 
-### Hero Section
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/e6f0c16d-0aa4-4f1f-9d3c-e26f0d934dc8" alt="Hero Section" width="800" height="auto">
+Below are some screenshots showcasing various aspects of the application:
 
----
+- **Hero Section**
+  ![Hero Section](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/e6f0c16d-0aa4-4f1f-9d3c-e26f0d934dc8)
 
-### Home Page
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/3c1a8bb3-02c3-4676-b087-153a5601664a" alt="Home Page" width="800" height="auto">
+- **Home Page**
+  ![Home Page](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/3c1a8bb3-02c3-4676-b087-153a5601664a)
 
----
+- **Search Page**
+  ![Search Page](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/19943110-c12f-443f-aec8-56c043e4a2ce)
 
-### Search Page
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/19943110-c12f-443f-aec8-56c043e4a2ce" alt="Search Page" width="800" height="auto">
+- **Property Details**
+  ![Property Details](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/a2d4d9a5-ae6e-479e-8ea7-458429446fd4)
 
----
+- **Profile**
+  ![Profile](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/057bcf9a-f3d5-4d95-ac0b-79fb6ddd67ef)
 
-### Property Details
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/a2d4d9a5-ae6e-479e-8ea7-458429446fd4" alt="Property Details" width="800" height="auto">
+- **Sign Up**
+  ![Sign Up](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/76fcc96e-6663-48f1-8ed4-905016dc6d15)
 
----
+- **Login**
+  ![Login](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/c3628363-761e-4c65-8b33-c23b1bc3d40f)
 
-### Profile
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/057bcf9a-f3d5-4d95-ac0b-79fb6ddd67ef" alt="Profile" width="800" height="auto">
+- **Add Property Page**
+  ![Add Property Page](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/8885cca3-4c37-4ffa-bd2a-4eb5ab1c1b5e)
 
----
+## Development and Deployment
 
-### Sign Up
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/76fcc96e-6663-48f1-8ed4-905016dc6d15" alt="Sign Up" width="800" height="auto">
+### Local Development
 
----
+1. **Frontend Development:**
+   - Navigate to the Angular project directory:
+     ```bash
+     $ cd path/to/angular-project
+     ```
+   - Install dependencies:
+     ```bash
+     $ npm install
+     ```
+   - Run the development server:
+     ```bash
+     $ ng serve
+     ```
+   - Access the application at [http://localhost:4200](http://localhost:4200).
 
-### Login
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/c3628363-761e-4c65-8b33-c23b1bc3d40f" alt="Login" width="800" height="auto">
+2. **Backend Development:**
+   - Navigate to the Spring Boot project directory:
+     ```bash
+     $ cd path/to/spring-boot-project
+     ```
+   - Start the Spring Boot application:
+     ```bash
+     $ mvn spring-boot:run
+     ```
+   - The backend server will be running on port 8080.
 
----
+### Docker Deployment
 
-### Add Property Page
-<img src="https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/8885cca3-4c37-4ffa-bd2a-4eb5ab1c1b5e" alt="Add Property Page" width="800" height="auto">
+1. **Starting the Application:**
+   - Navigate to the project root directory:
+     ```bash
+     $ cd path/to/project-root
+     ```
+   - Launch the application using Docker Compose:
+     ```bash
+     $ docker-compose up -d
+     ```
+   - Access the application via the provided URLs for frontend and backend.
 
----
+2. **Stopping the Application:**
+   - To stop the running containers:
+     ```bash
+     $ docker-compose down
+     ```
 
+## Notes
 
+- Ensure all required dependencies are installed and configured properly for both frontend and backend development.
+- For detailed setup instructions and configuration, refer to the respective documentation and files provided in the project.
+
+## My Contributions
+
+As a Full Stack Java Developer on the EstateEdge, I was deeply involved in creating a smooth and engaging user experience. I worked on the frontend using Angular and TypeScript to build a responsive, user-friendly interface, and used TailwindCSS to ensure the design was both modern and consistent. I also integrated Swiper to add a dynamic image carousel for showcasing properties. On the backend, I developed the application’s core functionalities with Spring Boot, set up secure user authentication and authorization with Spring Security, and handled data management with Spring Data JPA and MySQL. Additionally, I implemented features like image uploads and notifications to enhance the overall user experience. My role was pivotal in delivering a polished, feature-rich platform that meets the needs of our users.
