@@ -3,7 +3,21 @@
 ## Project Overview
 
 I have contrubuted my professional expertise to develop this real estate web application. It is a robust platform designed to streamline the process of buying, selling, and managing real estate properties. Built with a modern technology stack, this application provides a comprehensive suite of features to enhance user experience and facilitate efficient property transactions. The project has been developed through extensive iteration, with over 100 commits reflecting ongoing improvements and enhancements.
+ Tech Stack
 
+#### Frontend
+![Angular](https://img.shields.io/badge/Angular-Framework-brightgreen) 
+![TypeScript](https://img.shields.io/badge/TypeScript-Superset%20of%20JavaScript-blue) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--first%20CSS%20Framework-orange) 
+![Swiper](https://img.shields.io/badge/Swiper-JavaScript%20Library-lightblue) 
+
+#### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework%20for%20Java-red) 
+![Spring Security](https://img.shields.io/badge/Spring%20Security-Authentication%20and%20Authorization-yellow) 
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-Java%20Persistence%20API%20Management-lightgreen) 
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database%20Management%20System-orange) 
 ## Key Features
 
 - **Property Listings**
@@ -18,22 +32,6 @@ I have contrubuted my professional expertise to develop this real estate web app
   
 - **User Interface Enhancements**
 
-
-## Tech Stacks
-
-### Frontend
-- **Angular:** Framework for building dynamic single-page applications.
-- **TypeScript:** Superset of JavaScript providing static type definitions for better development practices.
-- **TailwindCSS:** Utility-first CSS framework for streamlined styling and responsive design.
-- **Swiper:** JavaScript library for creating touch-enabled sliders and carousels.
-
-### Backend
-- **Spring Boot:** Framework for creating stand-alone, production-grade Spring-based applications.
-- **Spring Security:** Provides authentication, authorization, and protection against common security vulnerabilities.
-- **Spring Data JPA:** Simplifies data access and management using JPA (Java Persistence API).
-
-### Database
-- **MySQL:** Relational database management system for storing and managing application data.
 
 ## Application Pages
 
