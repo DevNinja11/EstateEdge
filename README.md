@@ -2,32 +2,24 @@
 
 ## Project Overview
 
-I have contrubuted my professional expertise to develop this real estate web application. It is a robust platform designed to streamline the process of buying, selling, and managing real estate properties. Built with a modern technology stack, this application provides a comprehensive suite of features to enhance user experience and facilitate efficient property transactions. The live website for this application can be accessed [here](https://real-estate-marketplace-pi.vercel.app/). The project has been developed through extensive iteration, with over 100 commits reflecting ongoing improvements and enhancements.
+I have contrubuted my professional expertise to develop this real estate web application. It is a robust platform designed to streamline the process of buying, selling, and managing real estate properties. Built with a modern technology stack, this application provides a comprehensive suite of features to enhance user experience and facilitate efficient property transactions. The project has been developed through extensive iteration, with over 100 commits reflecting ongoing improvements and enhancements.
 
-## Features
+## Key Features
 
-- **Property Listings:**
-  - **Browse and Filter:** Explore a wide array of property listings with advanced filtering options.
-  - **Detailed Information:** View comprehensive details about each property, including specifications and images.
+- **Property Listings**
 
-- **User Management:**
-  - **Authentication and Authorization:** Secure login and registration processes to manage user access and permissions.
-  - **User Profiles:** Display and manage user profiles with relevant information.
+- **User Management**
 
-- **Property Management:**
-  - **Add Properties:** Contribute new property listings to the marketplace.
-  - **Edit and Delete Listings:** Maintain and update property information as needed.
+- **Property Management**
+  
+- **Image Management**
 
-- **Image Management:**
-  - **Upload and Carousel:** Upload images for property listings and showcase them using a dynamic carousel feature.
+- **User Notifications**
+  
+- **User Interface Enhancements**
 
-- **User Notifications:**
-  - **Alerts and Notifications:** Receive and manage alerts or notifications regarding property updates and user interactions.
 
-- **User Interface Enhancements:**
-  - **Loading Spinner:** Visual indicator for ongoing processes to improve user experience.
-
-## Technologies Used
+## Tech Stacks
 
 ### Frontend
 - **Angular:** Framework for building dynamic single-page applications.
