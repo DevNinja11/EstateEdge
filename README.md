@@ -54,8 +54,6 @@ Below are some screenshots showcasing various aspects of the application:
 - **Sign Up**
   ![Sign Up](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/76fcc96e-6663-48f1-8ed4-905016dc6d15)
 
-- **Login**
-  ![Login](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/c3628363-761e-4c65-8b33-c23b1bc3d40f)
 
 ## My Contributions
 
