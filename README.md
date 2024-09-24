@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-I have contrubuted my professional expertise to develop this real estate web application. It is a robust platform designed to streamline the process of buying, selling, and managing real estate properties. Built with a modern technology stack, this application provides a comprehensive suite of features to enhance user experience and facilitate efficient property transactions. The project has been developed through extensive iteration, with over 100 commits reflecting ongoing improvements and enhancements.
- Tech Stack
+Develeoped this real estate web app to streamline the process of buying, selling, and managing real estate properties. Built with a modern technology stack, this application provides a comprehensive suite of features to enhance user experience and facilitate efficient property transactions. The project has been developed through extensive iteration, reflecting ongoing improvements and enhancements.
 
 #### Frontend
 ![Angular](https://img.shields.io/badge/Angular-Framework-brightgreen) 
