@@ -48,11 +48,10 @@ Develeoped this real estate web app to streamline the process of buying, selling
 Below are some screenshots showcasing various aspects of the application:
 
 - **Profile**
-  ![Profile](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/057bcf9a-f3d5-4d95-ac0b-79fb6ddd67ef)
+![A1](https://github.com/user-attachments/assets/a9be71a6-e284-45cb-a95f-1ee9f660fc99)
 
 - **Sign Up**
-  ![Sign Up](https://github.com/Aymen-Nacer/Sorting-Algorithms-Visualizer/assets/67188835/76fcc96e-6663-48f1-8ed4-905016dc6d15)
-
+![B2](https://github.com/user-attachments/assets/b67c43f9-7c9e-45af-b0e7-5e0010dc0274)
 
 ## My Contributions
 
